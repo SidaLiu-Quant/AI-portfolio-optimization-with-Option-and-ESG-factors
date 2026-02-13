@@ -51,15 +51,17 @@ Maximum drawdown
 
 **Repository Structure**
 
+```text
 data/                  # Placeholder for user-provided datasets (not included)
 src/
-   data_processing.py # ESG & SMFIV factor construction
-   ols_model.py       # Panel OLS implementation
-   nn_model.py        # Neural network model
-   backtest.py        # Portfolio backtesting & evaluation
-   utils.py
-notebooks/            # Exploratory analysis & experiments
-results/              # Figures, tables, performance summaries
+  data_processing.py  # ESG & SMFIV factor construction
+  ols_model.py        # Panel OLS implementation
+  nn_model.py         # Neural network model
+  backtest.py         # Portfolio backtesting & evaluation
+  utils.py            # Helper functions
+notebooks/             # Exploratory analysis & experiments
+results/               # Figures, tables, performance summaries
+
 
 ****Quick Start****
 
