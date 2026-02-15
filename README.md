@@ -87,3 +87,7 @@ Liu, S. (2025). OLS and Neural Network Approaches to Portfolio Optimization Inte
 **Data Availability**
 
 ⚠️ Raw financial and ESG data are not included due to data licensing restrictions
+
+Note: This repository is intended as a research codebase. 
+Due to data licensing restrictions and environment differences, the code may require minor adaptation to run in different environments.
+
